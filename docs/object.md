@@ -271,4 +271,4 @@ joe |. ageSet(21)
 
 ### Methods
 
-You can attach arbitrary methods onto a type (_any_ type, as a matter of fact. Not just `bs.deriving abstract` record types). See [Object Method](/function.md#object-method) in the function section later.
+You can attach arbitrary methods onto a type (_any_ type, as a matter of fact. Not just `bs.deriving abstract` record types). See [Object Method](/function.html#object-method) in the later function section.
