@@ -153,7 +153,7 @@ Output:
 ```js
 var d = {
   type: "message",
-  "aria-label": "hello"
+  aria-label: "hello"
 };
 ```
 
